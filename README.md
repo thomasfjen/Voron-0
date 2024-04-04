@@ -1,6 +1,10 @@
 # Voron Zero
 
-[**DOWNLOAD**](https://github.com/VoronDesign/Voron-0/archive/refs/heads/Voron0.2r1.zip)
+[**CLICK HERE TO DOWNLOAD THE ENTIRE REPO**](https://github.com/VoronDesign/Voron-0/archive/refs/heads/Voron0.2r1.zip)
+
+You can Download JUST the STL folder by clicking [**HERE**](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FVoronDesign%2FVoron-0%2Ftree%2FVoron0.2r1%2FSTLs)
+
+[**Printed Parts Guide**](https://docs.google.com/spreadsheets/d/1MSgTiXazJwyfcTe7QqNIMWwQ_lfM8cOXmiMWPZ2HkEI/copy)
 
 ![Image of Voron Zero](http://vorondesign.com/images/voron0.2_bg.jpg)
 
@@ -8,7 +12,6 @@ The official release of the Voron Zero 3D printer. You can find the BOM in the c
 
 The current revision is **V0.2r1**
 
-[**Printed Parts Guide**](https://docs.google.com/spreadsheets/d/1MSgTiXazJwyfcTe7QqNIMWwQ_lfM8cOXmiMWPZ2HkEI/copy)
 
 ## Highlights
 - Compact and portable
